@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ANKURMALVIYA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Whats New</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_details">Details</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="description"><![CDATA[This Application helps you to understands traditional & non traditional methods in the Mechanical engineering concepts.The subjects which I will try to include here are like Engineering Mechanics,thermodynamics, Strength of Materials , Optimization Methods, Fluid Mechanics.]]></string>
+    <string name="whatsNew">Update will come shortly...Keep in touch Thank you</string>
+</resources>

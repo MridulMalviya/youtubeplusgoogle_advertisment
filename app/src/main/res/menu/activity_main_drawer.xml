@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_exergy"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Exergy" />
+        <item
+            android:id="@+id/nav_maxwell"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Maxwells Equation " />
+        <item
+            android:id="@+id/nav_clausicus"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Clausius Clayepron Equation" />
+        <item
+            android:id="@+id/nav_referigerator"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:titleCondensed="@string/app_name"
+            android:title="Referigerator &amp; Heat Pump (Concept) and the realtionship between COP of them: " />
+        <item
+            android:id="@+id/nav_ant"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="AntColonyAlgorithm(MathematicalFormulation)" />
+        <item
+            android:id="@+id/nav_concept"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="AntColonyAlgorithm(ConceptOnly)" />
+        <item
+            android:id="@+id/nav_shear"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Shear Force &amp; Bending Moment Diagram" />
+        <item
+            android:id="@+id/nav_clausius_inequality"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Clausius Inequality" />
+        <item
+            android:id="@+id/nav_centroid"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="How to Calculate Centroid" />
+        <item
+            android:id="@+id/nav_calculate"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Calculate reactions at supports by using equilibrium formula" />
+        <item
+            android:id="@+id/nav_axis"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title=" Moment of inertia wrt given axis" />
+        <item
+            android:id="@+id/nav_axix_part2"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title=" Moment of Inertia wrt centroidal axis 2nd part" />
+        <item
+            android:id="@+id/nav_lever_rule"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title=" Lever Rule" />
+        <item
+            android:id="@+id/nav_beams"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title=" Types of Beams" />
+        <item
+            android:id="@+id/nav_friction_concept"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Friction concept" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Mail me" />
+        </menu>
+    </item>
+
+</menu>
